@@ -1,4 +1,6 @@
 {
   "tabWidth": 2,
-  "printWidth": 9999
+  "printWidth": 9999,
+  "arrowParens": "avoid",
+  "trailingComma": "es5"
 }
